@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### - 🎁 I'm currently working in 'Unrailed!' simulator using C++ with some reinforcement learning
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingofprogramming)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minseobkimm)
 ###
 <a href="https://www.instagram.com/__minseob__/">
     <img 
